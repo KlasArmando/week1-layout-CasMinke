@@ -1,0 +1,36 @@
+a{
+    transition: 1s;
+}
+.nav-link{
+    color: olivedrab;
+}
+.nav-link:hover{
+    color: lime;
+}
+
+blockquote{
+    background-color: black;
+    color: white;
+}
+.card-body{
+    background-color: black;
+    color: white;
+}
+
+.body-color{
+    background-color: gray;
+}
+
+img{
+    background-color: darkolivegreen;
+}
+
+.cards{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+
+.card{
+    margin: 10px;
+}
