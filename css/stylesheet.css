@@ -37,11 +37,5 @@ img{
 .eigen-style{
     font-family: Impact,fantasy;
     font-size: 45px;
-    background-color: darkolivegreen;
-    color: white;
-    margin: 3px;
-    text-align: center;
-    border-style: solid;
-    border-radius: 10px;
-    border-color: #343a40;
+    color: darkolivegreen;
 }
