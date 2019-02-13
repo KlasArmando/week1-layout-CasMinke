@@ -2,10 +2,10 @@
   background-color: dimgrey;
 }
 
-nav ul li h1 .eigen-style {
+nav ul li .eigen-style {
   font-family: Impact, fantasy;
   font-size: 45px;
-  color: darkolivegreen;
+  color: black;
 }
 nav ul li a {
   transition: 1s;
