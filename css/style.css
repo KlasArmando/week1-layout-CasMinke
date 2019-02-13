@@ -1,0 +1,39 @@
+.body-color {
+  background-color: dimgrey;
+}
+
+nav ul li h1 .eigen-style {
+  font-family: Impact, fantasy;
+  font-size: 45px;
+  color: darkolivegreen;
+}
+nav ul li a {
+  transition: 1s;
+  color: olivedrab;
+}
+nav ul li a:hover {
+  color: lime;
+}
+
+blockquote {
+  background-color: black;
+  color: white;
+}
+
+.cards {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+}
+.cards .card {
+  margin: 10px;
+}
+.cards .card img {
+  background-color: darkolivegreen;
+}
+.cards .card .card-body {
+  background-color: black;
+  color: white;
+}
+
+/*# sourceMappingURL=style.css.map */

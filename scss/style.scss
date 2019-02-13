@@ -1,0 +1,44 @@
+  .body-color {
+    background-color: dimgrey;
+  }
+  nav {
+    ul {
+      li {
+        h1 {
+          .eigen-style {
+            font-family: Impact, fantasy;
+            font-size: 45px;
+            color: darkolivegreen;
+          }
+        }
+        a {
+          transition: 1s;
+          color: olivedrab;
+          &:hover {
+            color: lime;
+          }
+        }
+      }
+    }
+  }
+
+  blockquote {
+    background-color: black;
+    color: white;
+  }
+    .cards {
+      display: flex;
+      justify-content: center;
+      flex-direction: row;
+      .card {
+        margin: 10px;
+        img {
+          background-color: darkolivegreen;
+        }
+        .card-body {
+          background-color: black;
+          color: white;
+        }
+      }
+    }
+
